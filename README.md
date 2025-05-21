@@ -10,7 +10,7 @@
 
 ## Можете скачать по этой ссылке:
 
-https://drive.google.com/file/d/1yZ49f5O8HQEG-uO18roFPKo0iRTFvuuc/view?usp=sharing
+https://drive.google.com/file/d/1vIg7EB_euoALxDNZgZevQs9sa8kb1mDO/view?usp=sharing
 
 ## Использование
 1. Запустите приложение
