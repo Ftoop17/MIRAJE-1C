@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1yZ49f5O8HQEG-uO18roFPKo0iRTFvuuc/view?usp=shari
 - .NET Framework 4.5 или выше
 
 ## Автор
-Разработчик: TheTemirBolatov
+Разработчик: thetemirbolatov
 
 ## Лицензия
 Бесплатное использование
