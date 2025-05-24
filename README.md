@@ -10,7 +10,7 @@
 
 ## Можете скачать по этой ссылке:
 
-
+https://mega.nz/file/G0IFhYjA#Uy0P-essntrSKxYb5O84EPEYUSC8KfBcvgD7quRJaZs
 
 ## Использование
 1. Запустите приложение
