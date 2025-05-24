@@ -24,5 +24,13 @@ https://mega.nz/file/G0IFhYjA#Uy0P-essntrSKxYb5O84EPEYUSC8KfBcvgD7quRJaZs
 ## Автор
 Разработчик: thetemirbolatov
 
+ 📧 Контакты
+
+- VK: [thetemirbolatov](https://vk.com/thetemirbolatov)
+- Instagram: [thetemirbolatov](https://instagram.com/thetemirbolatov)
+- GitHub: [ftoop17](https://github.com/ftoop17)
+- Email: mirajestory@gmail.com
+
+
 ## Лицензия
 Бесплатное использование
