@@ -10,7 +10,7 @@
 
 ## Можете скачать по этой ссылке:
 
-https://drive.google.com/file/d/1yZ49f5O8HQEG-uO18roFPKo0iRTFvuuc/view?usp=sharing
+http://cloudamon.com/file/16122c0
 
 ## Использование
 1. Запустите приложение
